@@ -1,0 +1,5 @@
+collections:
+- label: Collection 1
+  data: collection1.yml
+- label: Collection 2
+  data: collection2.yml
