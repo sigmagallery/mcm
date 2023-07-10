@@ -1,0 +1,14 @@
+title: MCM - WORK IN PROGRESS
+description:
+image:
+mintAddresses:
+bannerLinks:
+- label: Twitter
+  url: https://twitter.com/
+  icon: fa-brands fa-twitter fa-fw
+- label: Telegram
+  url: https://t.me/
+  icon: fa-brands fa-telegram fa-fw
+- label: Discord
+  url: https://discord.com/users/
+  icon: fa-brands fa-discord fa-fw
